@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+div{
+  margin: 32px auto;
+  width: 300px;
+}
+
+p{
+  text-align: center;
+  font-weight: bold;
+}
+
+
+textarea{
+  width: 300px;
+  height: 150px;
+}
+
